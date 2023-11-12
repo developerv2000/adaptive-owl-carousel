@@ -1,0 +1,8 @@
+.products-carousel.owl-stoped {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.products-carousel .image {
+    width: 50%;
+}
